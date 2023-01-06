@@ -1,6 +1,9 @@
 # ModelViewer
 ModelViewer is a simple program to inspect .obj files.
 
+![image](https://user-images.githubusercontent.com/93867224/211090470-26b7c7ea-3643-46fa-adee-81f0c6142008.png)
+
+
 # Manual
 1. Open ModelViewer/ModelViewer/ModelViewer.exe
 2. Enter a path in the console and press Enter (e.g. C:\Users\<username>\Desktop\<filename>.obj)
@@ -20,3 +23,8 @@ You can only inspect .obj files with the following Blender export settings:
 
 (source: http://www.opengl-tutorial.org/beginners-tutorials/tutorial-7-model-loading/)
    
+# Sources
+Code: http://www.opengl-tutorial.org
+
+3D-Models: https://sketchfab.com
+
