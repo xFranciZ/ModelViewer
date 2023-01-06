@@ -14,7 +14,7 @@ ModelViewer is a simple program to inspect .obj files.
    - suzanne.obj
    - car.obj
 3. Inspect the model by using ArrowUp (zoom in) and ArrowDown (zoom out). You can also rotate the
-   model with WASD 
+   model with WASD. Press ESC to exit.
    
 # Important!
 You can only inspect .obj files with the following Blender export settings:
