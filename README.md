@@ -7,7 +7,7 @@ ModelViewer is a simple program to inspect .obj files.
 # Manual
 1. Open ModelViewer/ModelViewer/ModelViewer.exe
 2. Enter a path in the console and press Enter (e.g. C:\Users\<username>\Desktop\<filename>.obj)
-   or use the included example files. Therefore only type in the name of the example file.
+   or use the included example files. For that only type in the name of the example file.
    
    Example Files:
    - cube.obj
